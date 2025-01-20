@@ -2,11 +2,23 @@
 
 ## Exercise 2
 
-Mô tả các kiến thức đã áp dụng 
+### Mô tả các kiến thức đã áp dụng 
 
 - Triển khai các API bằng Swagger:
   
 ![image](https://github.com/user-attachments/assets/43a74e97-ce23-45f4-91df-3a9961dacbe6)
+
+- Sử dụng cơ sở dữ liệu MongoDB
+
+![image](https://github.com/user-attachments/assets/17cbacf0-57fc-4264-ba6e-21f495d95de3)
+
+- Validation và xử lý exception
+
+![image](https://github.com/user-attachments/assets/190633f2-2a36-4232-b8e4-e18a122048c8)
+![image](https://github.com/user-attachments/assets/1d99a22a-0dca-47ed-9ab9-b46e51130278)
+![image](https://github.com/user-attachments/assets/5981965d-34db-49f2-a672-8edf320cbc1f)
+
+
 
 - Kết quả đạt được:
 1. Lấy tất cả sách:
