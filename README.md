@@ -41,9 +41,11 @@
 
 ***
 
-#### Sử dụng Postman để test API ####
+#### Sử dụng Postman để test các API ####
 
 ![image](https://github.com/user-attachments/assets/0181cff5-98a7-433c-9e22-be9371f7e3b3)
+
+***
 
 #### Truy cập H2 Database (http://localhost:8080/h2-console) ####
 
