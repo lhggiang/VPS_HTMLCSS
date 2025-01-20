@@ -16,7 +16,7 @@
 
 Custom đối tượng lỗi trả về:
 
-![image](https://github.com/user-attachments/assets/e647681d-7a91-45b8-bd50-546a98b8806f)
+![image](https://github.com/user-attachments/assets/f77f4ec1-b933-476c-9d9c-a5dd54097411)
 
 Validation các field trong model:
 ![image](https://github.com/user-attachments/assets/a69cf279-674f-44cc-b59c-1b17c8e94dfb)
