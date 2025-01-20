@@ -4,10 +4,10 @@
 
 Mô tả các kiến thức đã áp dụng 
 
-Triển khai các API bằng Swagger:
+-  Triển khai các API bằng Swagger:
 ![image](https://github.com/user-attachments/assets/43a74e97-ce23-45f4-91df-3a9961dacbe6)
 
-Kết quả đạt được:
+- Kết quả đạt được:
 1. Lấy tất cả sách:
 ![image](https://github.com/user-attachments/assets/698b0789-59a0-4c94-8cd0-53d5cfea2775)
 
