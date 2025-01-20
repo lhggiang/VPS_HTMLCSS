@@ -41,7 +41,7 @@ Xử lý lỗi tên trùng nhau:
 - Trường hợp thành công:
 ![image](https://github.com/user-attachments/assets/5569a925-ea00-4c2d-a4f9-fd8cff8addf8)
 
-- Trường hợp tên sách đã có trong DB:
+- Trường hợp tên sách đã có trong database:
 ![image](https://github.com/user-attachments/assets/10832026-4220-4af5-8af2-cf60ab2325c8)
 
 - Trường hợp bỏ trống các fields như name, author, category hay price <= 0
@@ -52,7 +52,7 @@ Xử lý lỗi tên trùng nhau:
 - Trường hợp thành công:
 ![image](https://github.com/user-attachments/assets/fdfbd4f1-e2f7-45fe-9aae-4a6b973b2fc2)
 
-- Trường hợp tên sách đã có trong DB:
+- Trường hợp tên sách đã có trong database:
 ![image](https://github.com/user-attachments/assets/5260c05a-9081-47b3-92dc-0e058501e34f)
 
 - Trường hợp bỏ trống các fields như name, author, category hay price <= 0
