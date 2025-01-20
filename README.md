@@ -28,15 +28,15 @@ Xử lý lỗi tên trùng nhau:
 ![image](https://github.com/user-attachments/assets/5981965d-34db-49f2-a672-8edf320cbc1f)
 
 - **Kết quả đạt được**:
-1. Lấy tất cả sách:
+**1. Lấy tất cả sách**
    
 ![image](https://github.com/user-attachments/assets/698b0789-59a0-4c94-8cd0-53d5cfea2775)
 
-2. Lấy sách theo ID:
+**2. Lấy sách theo ID**
    
 ![image](https://github.com/user-attachments/assets/07d7ba0d-44fd-4d87-a00f-6ecc3d484fc4)
 
-3. Tạo mới sách:
+**3. Tạo mới sách**
    
 - Trường hợp thành công:
 ![image](https://github.com/user-attachments/assets/5569a925-ea00-4c2d-a4f9-fd8cff8addf8)
@@ -47,7 +47,7 @@ Xử lý lỗi tên trùng nhau:
 - Trường hợp bỏ trống các fields như name, author, category hay price <= 0
 ![image](https://github.com/user-attachments/assets/15522218-8b5d-428a-92da-91b8edc8bffd)
 
-4. Cập nhật sách
+**4. Cập nhật sách**
 
 - Trường hợp thành công:
 ![image](https://github.com/user-attachments/assets/fdfbd4f1-e2f7-45fe-9aae-4a6b973b2fc2)
@@ -58,7 +58,7 @@ Xử lý lỗi tên trùng nhau:
 - Trường hợp bỏ trống các fields như name, author, category hay price <= 0
 ![image](https://github.com/user-attachments/assets/fa08e407-880d-4e27-bf35-e31163647046)
 
-5. Xóa sách theo ID:
+**5. Xóa sách theo ID**
 
 ![image](https://github.com/user-attachments/assets/c35e32e2-1eb9-40c8-8451-530dd593d488)
 
