@@ -13,6 +13,8 @@
 ![image](https://github.com/user-attachments/assets/17cbacf0-57fc-4264-ba6e-21f495d95de3)
 
 - **Validation và xử lý exception (bổ sung thêm)**:
+- 
+![image](https://github.com/user-attachments/assets/e647681d-7a91-45b8-bd50-546a98b8806f)
 
 ![image](https://github.com/user-attachments/assets/a69cf279-674f-44cc-b59c-1b17c8e94dfb)
 
