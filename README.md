@@ -15,6 +15,7 @@
 - **Validation và xử lý exception (bổ sung thêm)**:
 
 Custom đối tượng lỗi trả về:
+
 ![image](https://github.com/user-attachments/assets/e647681d-7a91-45b8-bd50-546a98b8806f)
 
 Validation các field trong model:
