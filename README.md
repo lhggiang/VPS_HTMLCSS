@@ -1,6 +1,6 @@
 # Môn Kiến trúc phần mềm hướng dịch vụ (25D1INF50902201)
 
-## Exercise 2
+## Exercise 2 - La Hoàng Giang
 
 ### Mô tả các kiến thức đã áp dụng 
 
