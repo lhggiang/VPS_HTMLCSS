@@ -7,8 +7,6 @@
 - H2 Database (chạy trong memory, không cần cài phần mềm như SQL Server, MySQL)
 - Sử dụng Postman để test các API và dùng H2 Database Console để xem dữ liệu
 
-***
-
 ### Kết quả đạt được:
 **1. Thêm mới todo:**
 
@@ -41,6 +39,7 @@
 **6. Lấy tất cả todo đã hoàn thành:**
 ![image](https://github.com/user-attachments/assets/fba7ffb0-3f79-4a83-8fc7-20b9e4b96c4c)
 
+***
 
 #### Sử dụng Postman để test API ####
 
