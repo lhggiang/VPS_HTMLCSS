@@ -4,7 +4,7 @@
 
 ### Mô tả các kiến thức đã áp dụng:
 - Spring Web, Spring Data JPA, Validation, Handling Exception
-- H2 Database (chay trong memory, không cần cài phần mềm như SQL Server, MySQL)
+- H2 Database (chạy trong memory, không cần cài phần mềm như SQL Server, MySQL)
 - Sử dụng Postman để test các API và dùng H2 Database Console để xem dữ liệu
 
 ### Kết quả đạt được:
