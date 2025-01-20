@@ -20,10 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/5981965d-34db-49f2-a672-8edf320cbc1f)
 
-
-
-
-- Kết quả đạt được:
+- **Kết quả đạt được**:
 1. Lấy tất cả sách:
    
 ![image](https://github.com/user-attachments/assets/698b0789-59a0-4c94-8cd0-53d5cfea2775)
