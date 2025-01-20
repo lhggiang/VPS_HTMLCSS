@@ -1,35 +1,62 @@
 # Môn Kiến trúc phần mềm hướng dịch vụ (25D1INF50902201)
 
-## Exercise SOAP - La Hoàng Giang
+## Exercise 1 - La Hoàng Giang
 
 ### Mô tả các kiến thức đã áp dụng:
-- SOAP Web Services
-- Cơ sở dữ liệu SQL Server
-- Sử dụng Windows Forms để xây dựng giao diện người dùng
+- Spring Web, Spring Data JPA, Validation, Handling Exception
+- H2 Database (chay trong memory, không cần cài phần mềm như SQL Server, MySQL)
+- Sử dụng Postman để test các API và dùng H2 Database Console để xem dữ liệu
 
 ### Kết quả đạt được:
-**1. Get All Countries:**
+**1. Thêm mới todo:**
 
-![image](https://github.com/user-attachments/assets/caede7f4-f997-497e-880a-4c41ee85f623)
+- Trường hợp tạo tên todo đã tồn tại:
+![image](https://github.com/user-attachments/assets/f652f077-3689-4e47-ba4a-f0f11baba85e)
 
-![image](https://github.com/user-attachments/assets/f5a25291-e428-47b6-86ab-945f183221e2)
+- Trường hợp tạo mới thành công:
+![image](https://github.com/user-attachments/assets/55f689e0-9329-44be-87d1-cce78ade2507)
 
-**2. Get City By Name:**
+**2. Cập nhật todo:**
 
-![image](https://github.com/user-attachments/assets/f830e343-31c4-49b4-928b-6fdc45a49d81)
+- Trường hợp cập nhật ID không tồn tại:
+![image](https://github.com/user-attachments/assets/80b08352-5f59-45f7-bf1e-ffe960ccdcbc)
 
-![image](https://github.com/user-attachments/assets/cf0a4353-0e39-45fa-aaf6-0eb53af3c28f)
+- Trường hợp cập nhật thành công:
+![image](https://github.com/user-attachments/assets/daff3c51-c689-481d-8a63-e8f6c5422ec8)
 
-**3. Get Country By Country Code**
+**3. Xóa todo:**
 
-![image](https://github.com/user-attachments/assets/658c3793-5c86-4c3a-b05c-015c1fe87555)
+![image](https://github.com/user-attachments/assets/f4ef7802-5436-49d5-8758-c99cfd036e98)
 
-![image](https://github.com/user-attachments/assets/4deea098-9b17-49ae-9d49-d8a91f916235)
+**4. Lấy tất cả todo:**
+
+![image](https://github.com/user-attachments/assets/acf6e9dc-1f9f-4bde-966b-68253b1eda7f)
+
+**5. Lấy todo theo id:**
+
+![image](https://github.com/user-attachments/assets/f4518b84-1aa9-4d9b-b80f-4afdc4d877c7)
+
+**6. Lấy tất cả todo đã hoàn thành:**
+![image](https://github.com/user-attachments/assets/fba7ffb0-3f79-4a83-8fc7-20b9e4b96c4c)
 
 
-**4. Get Cities By CountryCode**
+**Sử dụng Postman để test API**
 
-![image](https://github.com/user-attachments/assets/8be7eb20-41db-44c3-a184-3894dc8dadf5)
+![image](https://github.com/user-attachments/assets/0181cff5-98a7-433c-9e22-be9371f7e3b3)
 
-![image](https://github.com/user-attachments/assets/2f2a2791-e349-4fe4-b194-b94e68018018)
+**Truy cập H2 Database (http://localhost:8080/h2-console)**
+
+- Đăng nhập vào H2 Database
+- 
+![image](https://github.com/user-attachments/assets/4fd10a81-6b75-4f15-b47b-cb746764a0a4)
+
+- Đăng nhập thành công:
+- 
+![image](https://github.com/user-attachments/assets/48600813-b28e-424b-8fe3-04568866d369)
+
+- Xem dữ liệu tất cả items:
+
+![image](https://github.com/user-attachments/assets/a427c92f-92d5-40e4-a3b9-cfc2f01f636e)
+
+
 
