@@ -1,68 +1,35 @@
 # Môn Kiến trúc phần mềm hướng dịch vụ (25D1INF50902201)
 
-## Exercise 2 - La Hoàng Giang
+## Exercise SOAP - La Hoàng Giang
 
-### Mô tả các kiến thức đã áp dụng 
+### Mô tả các kiến thức đã áp dụng:
+- SOAP Web Services
+- Cơ sở dữ liệu SQL Server
+- Sử dụng Windows Forms để xây dựng giao diện người dùng
 
-- **Triển khai các API bằng Swagger**:
-  
-![image](https://github.com/user-attachments/assets/43a74e97-ce23-45f4-91df-3a9961dacbe6)
+### Kết quả đạt được:
+**1. Get All Countries:**
 
-- **Sử dụng cơ sở dữ liệu MongoDB**:
+![image](https://github.com/user-attachments/assets/caede7f4-f997-497e-880a-4c41ee85f623)
 
-![image](https://github.com/user-attachments/assets/17cbacf0-57fc-4264-ba6e-21f495d95de3)
+![image](https://github.com/user-attachments/assets/f5a25291-e428-47b6-86ab-945f183221e2)
 
-- **Validation và xử lý exception (bổ sung thêm)**:
+**2. Get City By Name:**
 
-Custom đối tượng lỗi trả về:
+![image](https://github.com/user-attachments/assets/f830e343-31c4-49b4-928b-6fdc45a49d81)
 
-![image](https://github.com/user-attachments/assets/f77f4ec1-b933-476c-9d9c-a5dd54097411)
+![image](https://github.com/user-attachments/assets/cf0a4353-0e39-45fa-aaf6-0eb53af3c28f)
 
-Validation các field trong model:
-![image](https://github.com/user-attachments/assets/a69cf279-674f-44cc-b59c-1b17c8e94dfb)
+**3. Get Country By Country Code**
 
-Xử lý lỗi từ phần validation trong model:
-![image](https://github.com/user-attachments/assets/1d99a22a-0dca-47ed-9ab9-b46e51130278)
+![image](https://github.com/user-attachments/assets/658c3793-5c86-4c3a-b05c-015c1fe87555)
 
-Xử lý lỗi tên trùng nhau:
-![image](https://github.com/user-attachments/assets/5981965d-34db-49f2-a672-8edf320cbc1f)
-
-- **Kết quả đạt được**:
-**1. Lấy tất cả sách**
-   
-![image](https://github.com/user-attachments/assets/698b0789-59a0-4c94-8cd0-53d5cfea2775)
-
-**2. Lấy sách theo ID**
-   
-![image](https://github.com/user-attachments/assets/07d7ba0d-44fd-4d87-a00f-6ecc3d484fc4)
-
-**3. Tạo mới sách**
-   
-- Trường hợp thành công:
-![image](https://github.com/user-attachments/assets/5569a925-ea00-4c2d-a4f9-fd8cff8addf8)
-
-- Trường hợp tên sách đã có trong database:
-![image](https://github.com/user-attachments/assets/10832026-4220-4af5-8af2-cf60ab2325c8)
-
-- Trường hợp bỏ trống các fields như name, author, category hay price <= 0
-![image](https://github.com/user-attachments/assets/15522218-8b5d-428a-92da-91b8edc8bffd)
-
-**4. Cập nhật sách**
-
-- Trường hợp thành công:
-![image](https://github.com/user-attachments/assets/fdfbd4f1-e2f7-45fe-9aae-4a6b973b2fc2)
-
-- Trường hợp tên sách đã có trong database:
-![image](https://github.com/user-attachments/assets/5260c05a-9081-47b3-92dc-0e058501e34f)
-
-- Trường hợp bỏ trống các fields như name, author, category hay price <= 0
-![image](https://github.com/user-attachments/assets/fa08e407-880d-4e27-bf35-e31163647046)
-
-**5. Xóa sách theo ID**
-
-![image](https://github.com/user-attachments/assets/c35e32e2-1eb9-40c8-8451-530dd593d488)
+![image](https://github.com/user-attachments/assets/4deea098-9b17-49ae-9d49-d8a91f916235)
 
 
+**4. Get Cities By CountryCode**
 
+![image](https://github.com/user-attachments/assets/8be7eb20-41db-44c3-a184-3894dc8dadf5)
 
+![image](https://github.com/user-attachments/assets/2f2a2791-e349-4fe4-b194-b94e68018018)
 
