@@ -4,7 +4,7 @@
 
 Mô tả các kiến thức đã áp dụng 
 
--  Triển khai các API bằng Swagger:
+- Triển khai các API bằng Swagger:
 ![image](https://github.com/user-attachments/assets/43a74e97-ce23-45f4-91df-3a9961dacbe6)
 
 - Kết quả đạt được:
