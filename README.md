@@ -13,13 +13,17 @@
 ![image](https://github.com/user-attachments/assets/17cbacf0-57fc-4264-ba6e-21f495d95de3)
 
 - **Validation và xử lý exception (bổ sung thêm)**:
-- 
+
+Custom đối tượng lỗi trả về:
 ![image](https://github.com/user-attachments/assets/e647681d-7a91-45b8-bd50-546a98b8806f)
 
+Validation các field trong model:
 ![image](https://github.com/user-attachments/assets/a69cf279-674f-44cc-b59c-1b17c8e94dfb)
 
+Xử lý lỗi từ phần validation trong model:
 ![image](https://github.com/user-attachments/assets/1d99a22a-0dca-47ed-9ab9-b46e51130278)
 
+Xử lý lỗi tên trùng nhau:
 ![image](https://github.com/user-attachments/assets/5981965d-34db-49f2-a672-8edf320cbc1f)
 
 - **Kết quả đạt được**:
